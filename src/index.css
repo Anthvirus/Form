@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.border-radius{
+    border-radius: 2rem;
+}
+.background{
+    background:  linear-gradient(135deg, rgb(238, 157, 238), rgb(143, 143, 243));
+}
